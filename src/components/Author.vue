@@ -6,12 +6,12 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
+			A blog by Abhiraj Bhowmick. Discuss and reflect on life's greater questions.
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/suits_at">Follow on Twitter</a>
-			<a href="https://github.com/suits-at/netlifycms-gridsome">GitHub</a>
+			<a href="//twitter.com/rainboestrykr">Follow on Twitter</a>
+			<a href="https://abhirajbhowmick.hashnode.com">Read my Dev Blog</a>
 		</p>
 
 	</div>
