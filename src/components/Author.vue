@@ -1,8 +1,7 @@
 <template>
 	<div class="author">
 
-		<h1 v-if="showTitle" class="author__site-title">
-			{{ $static.metadata.siteName }}
+		<h1 Fresh Thoughts
 		</h1>
 
 		<p class="author__intro">
