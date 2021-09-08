@@ -1,8 +1,7 @@
 <template>
 	<div class="author">
 
-		<h1 Fresh Thoughts
-		</h1>
+		<h1> Fresh Thoughts </h1>
 
 		<p class="author__intro">
 			A blog by Abhiraj Bhowmick. Discuss and reflect on life's greater questions.
